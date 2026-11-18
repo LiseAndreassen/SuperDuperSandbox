@@ -1,2 +1,3 @@
 # SuperDuperSandbox
-Opplæring og testing
+
+Easypeasy workshop training and testing
